@@ -44,4 +44,6 @@ def update
   redirect_to article_path(@article)
 end
 
+
+
 end
